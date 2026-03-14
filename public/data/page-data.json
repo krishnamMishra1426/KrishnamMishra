@@ -1,0 +1,137 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "krishnammishra1426@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:krishnammishra1426@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9522403723",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+919522403723"
+      },
+      {
+        "type": "website",
+        "label": "www.mywebsite.com",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://krishnam-mishra-portfolio.vercel.app/"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "github",
+        "icon": "/images/icon/github-icon.svg",
+        "link": "https://github.com/krishnammishra123"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/krishnam-mishra-5618b5199/"
+      },
+      {
+        "platform": "instagram",
+        "icon": "/images/icon/instagram-icon.svg",
+        "link": "https://www.instagram.com/mishrakrishnam?igsh=OTRlejI4d2lxeHF3"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Bachelor of Engineering (IP) - 2017-2020",
+        "description": "Completed Bachelor of Engineering from Jabalpur Engineering College (JEC) with a GPA of 7.65, focusing on programming fundamentals, software development, and modern web technologies."
+      },
+      {
+        "title": "Diploma in Manufacturing Engineering - 2013-2017",
+        "description": "Completed Diploma from Dhar Polytechnic College, Dhar with 83.5%."
+      },
+      {
+        "title": "High School - 2012-2013",
+        "description": "Completed High School from Govt. Pushparaj Boys H.S. School, Govindgarh Rewa with 77.6%."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React.js",
+        "icon": "/images/home/education-skill/react-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Next.js",
+        "icon": "/images/home/education-skill/next-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "React Native",
+        "icon": "/images/home/education-skill/react-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Node.js",
+        "icon": "/images/home/education-skill/node-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Express.js",
+        "icon": "/images/home/education-skill/express-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "MongoDB",
+        "icon": "/images/home/education-skill/mongodb-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "SveltKit",
+        "icon": "/images/home/education-skill/svelte-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Vercel",
+        "icon": "/images/home/education-skill/Vercel_icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Netlify",
+        "icon": "/images/home/education-skill/netlify-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "GitHub",
+        "icon": "/images/home/education-skill/github_icon.svg",
+        "rating": 5
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "GitHub",
+        "href": "https://github.com/krishnammishra123"
+      },
+      {
+        "title": "Instagram",
+        "href": "https://www.instagram.com/mishrakrishnam?igsh=OTRlejI4d2lxeHF3"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/krishnam-mishra-5618b5199/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "krishnammishra1426@gmail.com",
+        "link": "mailto:krishnammishra1426@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9522403723",
+        "link": "tel:+919522403723"
+      }
+    ]
+  }
+}

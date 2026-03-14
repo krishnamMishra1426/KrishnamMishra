@@ -1,0 +1,94 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/mysticstore.png",
+      "title": "Mystic Store",
+      "client": "E-commerce Website",
+      "link": "https://mysticstore.in/",
+      "slug": "mysticstore",
+      "application": "web",
+      "description": "Mystic Store is an e-commerce website for natural handmade products such as soaps and detergents. Users can browse products, view detailed information, add items to cart, and place orders smoothly."
+    },
+    {
+      "image": "/images/work/seo.png",
+      "title": "Optiminder",
+      "client": "Digital Growth & Marketing",
+      "link": "https://app.optiminder.com/",
+      "slug": "optiminder",
+      "application": "web",
+      "description": "A digital marketing platform designed to help businesses optimize their online presence, track performance, and improve growth through analytics and automation tools."
+    },
+    {
+      "image": "/images/work/ayurvedahome.png",
+      "title": "Ayurveda Home Health",
+      "client": "E-commerce Website",
+      "link": "https://ayurvedahomehealth.vercel.app/",
+      "slug": "ayurveda-home",
+      "application": "web",
+      "description": "An e-commerce platform focused on Ayurvedic health and wellness products, allowing customers to browse, learn about products, and make purchases online."
+    },
+    {
+      "image": "/images/work/yoga.png",
+      "title": "Yoga Waikiki Beach",
+      "client": "Yoga & Wellness Platform",
+      "link": "https://yogawaikikibeach-development.vercel.app/",
+      "slug": "yoga-waikiki",
+      "application": "web",
+      "description": "A wellness website promoting yoga sessions, beach classes, and healthy lifestyle practices with a modern and responsive design."
+    },
+    {
+      "image": "/images/work/fusion.png",
+      "title": "Fusion Finance",
+      "client": "Financial Services Platform",
+      "link": "https://fusion-finance.com/",
+      "slug": "fusion-finance",
+      "application": "web",
+      "description": "A financial services website that provides information and solutions related to finance, lending, and digital financial products."
+    },
+    {
+      "image": "/images/work/newthinking.png",
+      "title": "NewThinking",
+      "client": "AI Solutions",
+      "link": "https://newthinking.ai/",
+      "slug": "new-thinking",
+      "application": "web",
+      "description": "An AI solutions platform showcasing advanced artificial intelligence services and technology solutions for businesses."
+    },
+    {
+      "image": "/images/work/acumatica.png",
+      "title": "Dopex | Acumatica Page",
+      "client": "Landing Page",
+      "link": "https://dopex.co/acumatica/",
+      "slug": "dopex",
+      "application": "web",
+      "description": "A professional landing page built to showcase Acumatica ERP solutions with clear information, branding, and user-friendly design."
+    },
+    {
+      "image": "/images/work/hackthon.png",
+      "title": "Hack-a-thons Games",
+      "client": "AI Solutions",
+      "link": "https://hack-a-thons-game.vercel.app/",
+      "slug": "hack-a-thon",
+      "application": "web",
+      "description": "An interactive web-based hackathon themed game designed to showcase creativity, coding challenges, and fun learning experiences."
+    },
+    {
+      "image": "/images/work/in10tional.png",
+      "title": "In10tional",
+      "client": "Meditation & Mindfulness App",
+      "link": "https://apps.apple.com/in/app/the-in10tional-life/id6747878614",
+      "slug": "in10tional",
+      "application": "app",
+      "description": "A meditation and mindfulness mobile application designed to help users improve mental well-being through guided practices and daily habits."
+    },
+    {
+      "image": "/images/work/chatwithbooks.png",
+      "title": "ChatWithBooks",
+      "client": "AI Conversational Book Assistant App",
+      "link": "https://play.google.com/store/apps/details?id=com.chatwithbooks&hl=en_IN",
+      "slug": "chat-with-books",
+      "application": "app",
+      "description": "An AI-powered mobile application that allows users to interact with books through conversational chat. Users can ask questions and explore book content in an intelligent and engaging way."
+    }
+  ]
+}
