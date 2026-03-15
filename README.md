@@ -1,46 +1,63 @@
-# Resume - Free Next.js Resume Website Template
-#### Preview
+# Krishnam Mishra – Portfolio Website
 
- - [Demo](https://themewagon.github.io/Resume-Nextjs/)
+A modern **developer portfolio website** built with **Next.js** to showcase my skills, projects, and experience.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/resume-nextjs/)
+## 🌐 Live Demo
 
+* Portfolio: https://krishnam-mishra.vercel.app/
 
-## Getting Started
+## 📂 GitHub Repository
 
-Clone from GitHub 
+* https://github.com/krishnamMishra1426
+
+## 🚀 Tech Stack
+
+* Next.js
+* React.js
+* Tailwind CSS
+* Nodemailer
+* Vercel (Deployment)
+
+## ⚙️ Getting Started
+
+Clone the repository:
+
 ```bash
-git clone https://github.com/themewagon/Resume-Nextjs.git
+git clone https://github.com/krishnamMishra1426/KrishnamMishra.git
 ```
 
 Install dependencies:
+
 ```bash
 npm install
 ```
 
 Run development server:
+
 ```bash
 npm run dev
 ```
 
 Build for production:
+
 ```bash
 npm run build
 ```
 
-## Author
+Open http://localhost:3000 in your browser.
 
-Design and code are written by the getnextjstemplates design & development team.  
+## 📧 Contact
 
+If you want to collaborate or have any questions, feel free to reach out through the contact form on my portfolio website.
 
-## License
+## 👨‍💻 Author
 
- - Design and Code is Copyright &copy; [getnextjstemplates](https://getnextjstemplates.com/)
- - Licensed under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
+**Krishnam Mishra**
+Full Stack Developer (MERN / Next.js)
 
+* GitHub: https://github.com/krishnamMishra1426
+* Portfolio: https://krishnam-mishra.vercel.app/
 
+## 📜 License
 
-
-
+This project is open source and available under the **MIT License**.
