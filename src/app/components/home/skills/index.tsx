@@ -24,10 +24,15 @@ const Skills = () => {
   return (
     <section className="py-16 md:py-24 bg-[#FAFAFA]">
       <div className="container mx-auto px-4">
-        <div className="flex items-center justify-between gap-2 border-b border-black pb-7 mb-12">
-          <h2 className="text-4xl font-bold tracking-tight">Skills & Expertise</h2>
-          <p className="text-xl text-orange-500 font-medium">( 04 )</p>
-        </div>
+<div className="flex items-center border-b border-black pb-5 mb-8">
+  <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight">
+    Skills & Expertise
+  </h2>
+
+  <p className="ml-auto text-base sm:text-lg md:text-xl text-orange-500 font-medium">
+    ( 04 )
+  </p>
+</div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6 md:gap-8">
           {skills.map((skill, index) => (

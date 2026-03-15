@@ -12,13 +12,8 @@
         "label": "+91 9522403723",
         "icon": "/images/icon/call-icon.svg",
         "link": "tel:+919522403723"
-      },
-      {
-        "type": "website",
-        "label": "www.mywebsite.com",
-        "icon": "/images/icon/web-icon.svg",
-        "link": "https://krishnam-mishra-portfolio.vercel.app/"
       }
+     
     ],
     "socialItems": [
       {
